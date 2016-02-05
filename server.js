@@ -13,8 +13,8 @@ app.set('view engine', 'html');
 /*app.get('/', function (req, res) {
    res.render('index');
 });*/
-app.get('/', function(req, res){
-  res.render('dist/index');
+app.get('*', function(req, res){
+  res.sendFile('dist/index.html');
 });
 var genericDataFunction=function(data, fullData, callback){
   data=data.split(/\\n/g);
@@ -27,16 +27,6 @@ var genericDataFunction=function(data, fullData, callback){
   if(n===1){
     return data[0];
   }
-
-  /*if(data.endsWith("\n")){ //requires new node!
-    fullData+=data.substr(0, data.length-3);
-    callback(fullData);
-    fullData="";
-  }
-  else{
-    fullData+=data;
-  }
-  return fullData;*/
 }
 io.on('connection', function(socket) {
   console.log("connected");
