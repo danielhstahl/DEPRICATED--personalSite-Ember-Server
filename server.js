@@ -14,7 +14,7 @@ app.set('view engine', 'html');
    res.render('index');
 });*/
 app.get('*', function(req, res){
-  res.sendFile('dist/index.html');
+  res.sendFile(__dirname +'/dist/index.html');
 });
 var genericDataFunction=function(data, fullData, callback){
   data=data.split(/\\n/g);
