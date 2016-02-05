@@ -11,6 +11,9 @@ app.use(bodyParser.json());
 /*app.get('/', function (req, res) {
    res.render('index');
 });*/
+app.get('/', function(req, res){
+  res.render('dist/index.html');
+});
 var genericDataFunction=function(data, fullData, callback){
   data=data.split(/\\n/g);
   var n=data.length;
