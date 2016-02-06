@@ -4,15 +4,10 @@ var express = require('express');
 var bodyParser=require('body-parser');
 var handleYield=require('handleYield');
 var app = express();
-//var jade=require('jade');
 var server = http.createServer(app).listen(7000); //required fro socket.io
 var io = require('socket.io').listen(server);
 app.use(bodyParser.json());
 app.use(express.static('dist'));
-app.set('view engine', 'html');
-/*app.get('/', function (req, res) {
-   res.render('index');
-});*/
 app.get('*', function(req, res){
   res.sendFile(__dirname +'/dist/index.html');
 });
