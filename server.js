@@ -4,7 +4,7 @@ var express = require('express');
 var bodyParser=require('body-parser');
 var handleYield=require('handleYield');
 var app = express();
-var server = http.createServer(app).listen(7000); //required fro socket.io
+var server = http.createServer(app).listen(80); //required fro socket.io
 var io = require('socket.io').listen(server);
 app.use(bodyParser.json());
 app.use(express.static('dist'));
