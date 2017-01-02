@@ -1,0 +1,85 @@
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: This socket has been ended by the other party
+    at Socket.writeAfterFIN [as write] (net.js:268:12)
+    at sendDataToCPP (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:226:19)
+    at IncomingMessage.<anonymous> (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:220:7)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: getaddrinfo ENOTFOUND api.stlouisfed.org api.stlouisfed.org:443
+    at errnoException (dns.js:26:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: This socket has been ended by the other party
+    at Socket.writeAfterFIN [as write] (net.js:268:12)
+    at sendDataToCPP (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:226:19)
+    at IncomingMessage.<anonymous> (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:205:9)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: This socket has been ended by the other party
+    at Socket.writeAfterFIN [as write] (net.js:268:12)
+    at sendDataToCPP (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:226:19)
+    at IncomingMessage.<anonymous> (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:220:7)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: This socket has been ended by the other party
+    at Socket.writeAfterFIN [as write] (net.js:268:12)
+    at sendDataToCPP (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:226:19)
+    at IncomingMessage.<anonymous> (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:220:7)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: This socket has been ended by the other party
+    at Socket.writeAfterFIN [as write] (net.js:268:12)
+    at sendDataToCPP (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:226:19)
+    at IncomingMessage.<anonymous> (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:220:7)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: This socket has been ended by the other party
+    at Socket.writeAfterFIN [as write] (net.js:268:12)
+    at sendDataToCPP (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:226:19)
+    at IncomingMessage.<anonymous> (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:205:9)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)

@@ -1,0 +1,134 @@
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+disconnect
+connected
+opsrisk
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+got to 110
+disconnect
+child process marketRisk exited with code null
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+got to 110
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+got to 110
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+connected
+opsrisk
+disconnect
+child process marketRisk exited with code null
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: This socket has been ended by the other party
+    at Socket.writeAfterFIN [as write] (net.js:268:12)
+    at sendDataToCPP (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:226:19)
+    at IncomingMessage.<anonymous> (/root/node/personalSite-Ember-Server/node_modules/handleYield.js:220:7)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
