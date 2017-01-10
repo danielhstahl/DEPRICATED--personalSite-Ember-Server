@@ -1,9 +1,11 @@
 {
   "main.css": "static/css/main.6ec724c8.css",
   "main.css.map": "static/css/main.6ec724c8.css.map",
-  "main.js": "static/js/main.92b9b474.js",
-  "main.js.map": "static/js/main.92b9b474.js.map",
+  "main.js": "static/js/main.bc5b8ac8.js",
+  "main.js.map": "static/js/main.bc5b8ac8.js.map",
+  "static/media/CreditRiskExtensions.pdf": "static/media/CreditRiskExtensions.143b963f.pdf",
   "static/media/CreditRiskPaper.pdf": "static/media/CreditRiskPaper.31bdbf17.pdf",
+  "static/media/LiquidityRisk.pdf": "static/media/LiquidityRisk.28f1acca.pdf",
   "static/media/MarketRiskDocumentation.pdf": "static/media/MarketRiskDocumentation.92372636.pdf",
   "static/media/OpsRiskPaper.pdf": "static/media/OpsRiskPaper.04e9ffa1.pdf",
   "static/media/SingaporeSkyline-small.jpg": "static/media/SingaporeSkyline-small.ee03d0f9.jpg",
